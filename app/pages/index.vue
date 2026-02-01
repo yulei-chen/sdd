@@ -39,7 +39,7 @@
         </div>
         <div class="sdd-form-row">
           <label class="sdd-label">
-            Start
+            Work starts
             <input
               v-model="startTime"
               type="time"
@@ -47,7 +47,7 @@
             />
           </label>
           <label class="sdd-label">
-            End
+            Work ends
             <input
               v-model="endTime"
               type="time"
